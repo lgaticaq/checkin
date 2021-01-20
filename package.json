@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/lgaticaq/checkin#readme",
   "dependencies": {
-    "puppeteer": "2.1.1"
+    "puppeteer": "5.5.0"
   },
   "devDependencies": {
     "@commitlint/cli": "8.3.5",
