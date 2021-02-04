@@ -38,7 +38,7 @@
     "@types/chai": "4.2.14",
     "@types/mocha": "5.2.7",
     "@types/node": "12.19.16",
-    "chai": "4.2.0",
+    "chai": "4.3.0",
     "eslint": "6.8.0",
     "eslint-plugin-array-func": "3.1.7",
     "eslint-plugin-eslint-comments": "3.2.0",
